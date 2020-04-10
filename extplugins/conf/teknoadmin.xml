@@ -1,0 +1,12 @@
+<configuration plugin="teknoadmin">
+	<settings name="commands">
+<!--  
+		The first group of commands work with our serverside mod, or with bullet-worm's powerservermod. Or, in fact,
+		with any server that has ravirs original admintools included.
+    Whenever the coder modified the tools however, they might not work with b3.
+-->
+		<set name="nasty-rekt">100</set>
+		<set name="afk-spec">0</set>
+		<set name="saybig-sb">20</set>
+	</settings>
+</configuration>
